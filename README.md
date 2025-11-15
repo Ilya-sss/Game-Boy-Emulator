@@ -84,7 +84,7 @@ ROM files should be placed in the `roms/` directory or you can specify the full 
 ## Project Structure
 
 ```
-part16/
+CBGE/
 ├── CMakeLists.txt          # Main CMake configuration
 ├── cgbe/                   # Main executable source
 │   ├── CMakeLists.txt
