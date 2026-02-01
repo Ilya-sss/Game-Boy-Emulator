@@ -1,2 +1,53 @@
+# Build artifacts
 build/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# ROM files (copyrighted)
 roms/
+*.gb
+*.gbc
+*.sgb
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE and editors
+.vscode/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.orig
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Debug files
+core
+core.*
+*.stackdump
+
+# Logs
+*.log
+
+# Font files (if accidentally committed)
+*.ttf
+*.otf
