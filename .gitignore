@@ -51,3 +51,6 @@ core.*
 # Font files (if accidentally committed)
 *.ttf
 *.otf
+
+# Vscode
+.vscode
